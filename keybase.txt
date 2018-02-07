@@ -4,7 +4,7 @@ https://keybase.io/kimcodes
 
 I hereby claim:
 
-  * I am an admin of http://kim.codes
+  * I am an admin of http://kimcodesin.space
   * I am kimcodes (https://keybase.io/kimcodes) on keybase.
   * I have a public key with fingerprint 3729 F296 3529 EF3E C3A6  519B 608E 58FE 9F4A B287
 
@@ -22,16 +22,16 @@ To do so, I am signing this object:
       "username": "kimcodes"
     },
     "service": {
-      "hostname": "kim.codes",
+      "hostname": "kimcodesin.space",
       "protocol": "http:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1517970777,
+  "ctime": 1517972464,
   "expire_in": 157680000,
-  "prev": "519a3dbb718c74d45eda451ab46dc1054e78c2aea78e25368c60010af6bd1b58",
-  "seqno": 8,
+  "prev": "f946d9359311909cce68269762a83cc812e5d67bb6832418153916f6c7a39bde",
+  "seqno": 9,
   "tag": "signature"
 }
 
@@ -41,30 +41,30 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.76
 Comment: https://keybase.io/crypto
 
-yMNsAnicbVJ9TBRHHD2+RChKUxLpP1ZZWrTla3dnd2f3YglfYks5kgbP0GvNMbs7
-C4tyd9wdiAVqABVSWxutGKuo11akFGoLhJQiiUEg0l5pLTVHDMRalA9bCxKo2ESg
-u7Sm/3T+mcwv77157830rwswhPrlHc1dPp/ZXuvn7f2wxGB5G79RToh2eT9hLCf2
-4NUN75Wxy23do8qEkSApmmR5UQEKYkUByIqIRBGKjAIYCTGipAg0jRWGRICjZB5x
-CAGKETBNCTTHsjRHA4YlERFHKKotHzsdTtXm1mQBpAWFFjjA0gJWAJYA4lhKEDmS
-xyyvYEFhkEjzUCMW2F06QzMnIhdOUO3aTDtYV+39D/6Jb5KCokhSrCLREFACEgQB
-MLLmDwscJyCKogCiWEAChZK0MJIicyQDaJkRGYanEYTyqu+SVTkZKxQAHKMwggR5
-qGAoyhBgjCWJEmVK0IEu7LShIqx7VYsku1YiURlHaNNSVcJ6sXqS/xAJ/0DiCIfT
-7rZL9r3auMDtdhh1lnu/Q4ftw6L1XwGrqNpkrUONUIqdLtVuI4yUhpTcqq5IsRQU
-IAkhjCNwmUN1YquqI1jI8aS29GtwqSaptYyArL0hxUuQkRkWy4hhKSQynCxRJMtg
-yEs0wgjymGYBx0scqZWJFE7LKbI8oUcqttkJI6/ZRPmapEvNtyF3iRMTlVd73wo0
-+IUa1gT563/LEBry9JMfF20OX3F4Koa7OgeOmKbutCeZ06xZzIZuz7R04NM/jio9
-kol+Rbmeuv12zcEX0o8dqg+eZ2Orx71zJ0y379ylllPw4qOBuORi30j19VxjxdaA
-uaD2B+JM0+RL2budhTdqHw+9eC7oZGIRCuYun37GOLFr7GLT6HbYGhXbVrlkgZZw
-a0FqNhgdzXnzblltfYcvabHreHVs5K2GsxeaTXW7Ipt9v55LvvZsnQvWhDUneFu2
-+L9nbptdKQ4O7ZybiIw5NcNUPTD2tPSFvNNaYa44+lkEm9EZ1bRv/n5aR6MJ39/4
-Y6Vv7fpXwa3k4N68OsO9hN5jBbtTt8b0rWv4ObL1pv27C96pdvv5lg0lAR/XPArr
-PvO1JyXJvnAFLCS1ZSW+dvXAcvqN3zlP+QozMjn2uPjlyxuvRMw+rNqUMh54eGXu
-7MDsN8M/eBs3d5mIxLGgHq8BLZ1K/3JpfdtUtV/TwRpHFfrg3Xz50vDQWt9H5m9/
-qzFXdu/43HLk5Otb+v7yN4/l3hyc/bMlfmjS+dQ2D2mpv5gLfa5w1ewMjGidnG8o
-83yvDl5bXBzivergc2fyMr4I4UsyKgp/et8/c+Lw6SWLPHSvds225bDKry6FgJyZ
-9vH4nBhf5ycrgVHZ4shA5PHa1qz4X3bOZB3aOdX/fP9oR13s5kbPdGHm9KaUh9EL
-O6pPREelJada/gblEske
-=xoVr
+yMNrAnicbVJ9TJVVHIYACVQ+Ribsio5XNGlXuOc979e54qaxgEAScjBhIrwf58Ab
+cu/lfgBXulAOdaUyzIztNiYzlyVEwQQWC5UwMr6EKd21bptojUHrSygaBPRelv+0
+zj9n5/d7nuc8v2e/2xsD/EL9ixsOr1zK6DztP9zvdvgVHC/7rYaSzIqTMtZQZXjt
+wscUbLMXlakKZaQMgDawgkQgEVkJQYVIoiTxEkMgI4uMJBNE05gwBhFyQBFEThQh
+YBCmAaI5lqU5GjKsQaT0FFFNJdhqsaomuyYLeRoRGnGQpREmEMtQ5FiAJM4gYFYg
+GBFGlGiB14ilZpuPoZmTRBtOVM1aTXsUrdn7H/wT3wbAS5IBsESmeQiQiBCCjKL5
+w4jjkAgAgCJgoQESIGvDyEThDAykFUZiGIEWeV5Z8+1Yk1MwARByDGGQzAs8wbyk
+8BBjLMtAUgDyAW3YahLLsc+rWi6btRApl57SqpWqjH3B+ib5D0I1JdosotbWUxar
+2W6Wzce0bqndbjH6yHanxYeuwlLRvzpFkmpStCg1QiW22lSziTICDSnbVZ8wYAGP
+eJrhGD2Fqy2qFRepPgTLc4JBO75vcKUmSRDDKQiyCAKADEiWMSfQHOI5WhSgLAuA
+xqzCaQlyAqQZIGhJIcARTuZFiCTFZ9iGK0xmyog0m2KJJmlTS0yi3WHFlOuL/iOB
+fv6hfuuCnvKtmF9oSMSTxXtUG77qbJJk/vGp2olIy7PZLvXMuwcrWi/XPchKim88
++VPmc2dy6lM62u2DMdffGU9vXXwILSeKN7iSrv6wdep7W+ffkWFNS18unj/04d7k
+kkw+bsuOea/u4RRKqNC5Q/5yesYOzE9sOnig7cfgKJibJm3NTBhamrzufuTJk5c/
+3/7pjdx8zygO+yqcObmpdy/5fWBnx8YpfdevCbj1cJzanTL9ce/kHy8cvfFG0uto
+y9LMTTz7zcJdebR0uf6ZV1cdg7O3RlBGpnStapv7mne2Jarw611ReTmxfA4VPfZt
+e0xamNP7wUW9u6A6eYO5YFuixxB3K3XHupT3GttK8ns+qn+rux9M1ja0XokhluKB
+4GUwdi8rbdxZ17OHPlEe294dO9/jmMiv3Zw4k/q+0B1SFkS8z1+OyUj8mX1zs6v5
+k4nZgrBOx1h2re611Yj92X1XIgKeJkUxavL0nO74vgDl7Mid9JfpXMf0K5ZAoVDn
+9XeR6PELzPju3O8+izratcfjrXFbjY+HJ/Cw3vbShYb7QYfuj481zsylt8zH5fV1
+xY1m7bzqHRLbmtYnmeNPx0emDtZJo+Kuc0rfpcHwqnvVi8XrV8Pnbjaf2v9LYUvS
+g7OkMuNu1JHtxsnO0Y6lypWEt6MHLOfvOG7rXlyhCnuahwJ7J3NLgz05qRe7do90
+Ly+cXuj5c1/9P9pNwWU=
+=OaCP
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
