@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/kimcodes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kim.codes
+  * I am kimcodes (https://keybase.io/kimcodes) on keybase.
+  * I have a public key with fingerprint 3729 F296 3529 EF3E C3A6  519B 608E 58FE 9F4A B287
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012058bf3fa5b93dfbabb7b4f34ca4bcf922ef40a361d8a6aa3149e21926552623450a",
+      "fingerprint": "3729f2963529ef3ec3a6519b608e58fe9f4ab287",
+      "host": "keybase.io",
+      "key_id": "608e58fe9f4ab287",
+      "kid": "01017bb015fc27319a99934daa3e9669a1113a15303f1c34ccfd60432d4b4482a77d0a",
+      "uid": "def13364f49c787fe7bd73eeecc1bd19",
+      "username": "kimcodes"
+    },
+    "service": {
+      "hostname": "kim.codes",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1517970777,
+  "expire_in": 157680000,
+  "prev": "519a3dbb718c74d45eda451ab46dc1054e78c2aea78e25368c60010af6bd1b58",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJ9TBRHHD2+RChKUxLpP1ZZWrTla3dnd2f3YglfYks5kgbP0GvNMbs7
+C4tyd9wdiAVqABVSWxutGKuo11akFGoLhJQiiUEg0l5pLTVHDMRalA9bCxKo2ESg
+u7Sm/3T+mcwv77157830rwswhPrlHc1dPp/ZXuvn7f2wxGB5G79RToh2eT9hLCf2
+4NUN75Wxy23do8qEkSApmmR5UQEKYkUByIqIRBGKjAIYCTGipAg0jRWGRICjZB5x
+CAGKETBNCTTHsjRHA4YlERFHKKotHzsdTtXm1mQBpAWFFjjA0gJWAJYA4lhKEDmS
+xyyvYEFhkEjzUCMW2F06QzMnIhdOUO3aTDtYV+39D/6Jb5KCokhSrCLREFACEgQB
+MLLmDwscJyCKogCiWEAChZK0MJIicyQDaJkRGYanEYTyqu+SVTkZKxQAHKMwggR5
+qGAoyhBgjCWJEmVK0IEu7LShIqx7VYsku1YiURlHaNNSVcJ6sXqS/xAJ/0DiCIfT
+7rZL9r3auMDtdhh1lnu/Q4ftw6L1XwGrqNpkrUONUIqdLtVuI4yUhpTcqq5IsRQU
+IAkhjCNwmUN1YquqI1jI8aS29GtwqSaptYyArL0hxUuQkRkWy4hhKSQynCxRJMtg
+yEs0wgjymGYBx0scqZWJFE7LKbI8oUcqttkJI6/ZRPmapEvNtyF3iRMTlVd73wo0
++IUa1gT563/LEBry9JMfF20OX3F4Koa7OgeOmKbutCeZ06xZzIZuz7R04NM/jio9
+kol+Rbmeuv12zcEX0o8dqg+eZ2Orx71zJ0y379ylllPw4qOBuORi30j19VxjxdaA
+uaD2B+JM0+RL2budhTdqHw+9eC7oZGIRCuYun37GOLFr7GLT6HbYGhXbVrlkgZZw
+a0FqNhgdzXnzblltfYcvabHreHVs5K2GsxeaTXW7Ipt9v55LvvZsnQvWhDUneFu2
++L9nbptdKQ4O7ZybiIw5NcNUPTD2tPSFvNNaYa44+lkEm9EZ1bRv/n5aR6MJ39/4
+Y6Vv7fpXwa3k4N68OsO9hN5jBbtTt8b0rWv4ObL1pv27C96pdvv5lg0lAR/XPArr
+PvO1JyXJvnAFLCS1ZSW+dvXAcvqN3zlP+QozMjn2uPjlyxuvRMw+rNqUMh54eGXu
+7MDsN8M/eBs3d5mIxLGgHq8BLZ1K/3JpfdtUtV/TwRpHFfrg3Xz50vDQWt9H5m9/
+qzFXdu/43HLk5Otb+v7yN4/l3hyc/bMlfmjS+dQ2D2mpv5gLfa5w1ewMjGidnG8o
+83yvDl5bXBzivergc2fyMr4I4UsyKgp/et8/c+Lw6SWLPHSvds225bDKry6FgJyZ
+9vH4nBhf5ycrgVHZ4shA5PHa1qz4X3bOZB3aOdX/fP9oR13s5kbPdGHm9KaUh9EL
+O6pPREelJada/gblEske
+=xoVr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kimcodes
+
+==================================================================
